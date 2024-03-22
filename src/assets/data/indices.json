@@ -1,0 +1,112 @@
+{
+  "indices": [
+    {
+      "name": "Nifty 50",
+      "open": 21453.95,
+      "high": 21482.35,
+      "low": 21137.2,
+      "percentChange": 1.01,
+      "change": 215.15,
+      "time": "06:10:01"
+    },
+    {
+      "name": "BSE Sensex",
+      "open": 71060.31,
+      "high": 71149.61,
+      "low": 70001.6,
+      "percentChange": 0.98,
+      "change": 689.76,
+      "time": "24/01"
+    },
+    {
+      "name": "Nifty Bank",
+      "open": 45082.4,
+      "high": 45485.5,
+      "low": 44489.4,
+      "percentChange": 0.15,
+      "change": 67.35,
+      "time": "06:10:01"
+    },
+    {
+      "name": "India VIX",
+      "open": 14.375,
+      "high": 15.6475,
+      "low": 14.03,
+      "percentChange": -3.21,
+      "change": -0.4775,
+      "time": "06:10:01"
+    },
+    {
+      "name": "Dow Jones",
+      "open": 37806.39,
+      "high": 38064.22,
+      "low": 37795.71,
+      "percentChange": -0.26,
+      "change": -99.06,
+      "time": "03:41:20"
+    },
+    {
+      "name": "S&P 500",
+      "open": 4868.55,
+      "high": 4903.68,
+      "low": 4865.94,
+      "percentChange": 0.08,
+      "change": 3.95,
+      "time": "03:41:20"
+    },
+    {
+      "name": "Nasdaq",
+      "open": 15481.92,
+      "high": 15629.07,
+      "low": 15468.91,
+      "percentChange": 0.36,
+      "change": 55.97,
+      "time": "03:45:59"
+    },
+    {
+      "name": "Small Cap 2000",
+      "open": 1959.15,
+      "high": 2001.95,
+      "low": 1957.65,
+      "percentChange": -0.87,
+      "change": -17.12,
+      "time": "24/01"
+    },
+    {
+      "name": "TR Canada 50",
+      "open": 351.5,
+      "high": 353.42,
+      "low": 351.41,
+      "percentChange": -0.01,
+      "change": -0.03,
+      "time": "24/01"
+    },
+    {
+      "name": "DAX",
+      "open": 16889.92,
+      "high": 16921.41,
+      "low": 16760.92,
+      "percentChange": 1.58,
+      "change": 262.83,
+      "time": "24/01"
+    },
+    {
+      "name": "FTSE 100",
+      "open": 7527.67,
+      "high": 7538.89,
+      "low": 7485.73,
+      "percentChange": 0.56,
+      "change": 41.94,
+      "time": "24/01"
+    },
+    {
+      "name": "Euro Stoxx 50",
+      "open": 4562.85,
+      "high": 4563.85,
+      "low": 4516.55,
+      "percentChange": 2.17,
+      "change": 96.94,
+      "time": "24/01"
+    }
+  ]
+}

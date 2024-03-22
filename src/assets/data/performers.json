@@ -1,0 +1,118 @@
+{
+  "gainers": [
+    {
+      "Name": "IFCI",
+      "Price": 48,
+      "Change": "+20%"
+    },
+    {
+      "Name": "Ravindra Energy",
+      "Price": 110.44,
+      "Change": "+19.99%"
+    },
+    {
+      "Name": "Transformers & Rect",
+      "Price": 331.1,
+      "Change": "+19.99%"
+    },
+    {
+      "Name": "MTNL",
+      "Price": 41.75,
+      "Change": "+19.97%"
+    },
+    {
+      "Name": "Sah Polymers",
+      "Price": 127.4,
+      "Change": "+19.96%"
+    },
+    {
+      "Name": "Sakthi Finance",
+      "Price": 85.54,
+      "Change": "+19.94%"
+    },
+    {
+      "Name": "Manaksia Aluminium",
+      "Price": 36.2,
+      "Change": "+19.08%"
+    }
+  ],
+  "losers": [
+    {
+      "Name": "Supershakti Metaliks",
+      "Price": 500,
+      "Change": "-13.04%"
+    },
+    {
+      "Name": "Chandra Bhagat Pharm",
+      "Price": 120.4,
+      "Change": "-12.6%"
+    },
+    {
+      "Name": "Muthoot Capital Serv",
+      "Price": 333.6,
+      "Change": "-11.65%"
+    },
+    {
+      "Name": "Premier Explosives",
+      "Price": 1383.9,
+      "Change": "-9.95%"
+    },
+    {
+      "Name": "Kesar Terminal&Infra",
+      "Price": 35.45,
+      "Change": "-9.91%"
+    },
+    {
+      "Name": "Duncan Engineering",
+      "Price": 456.95,
+      "Change": "-9.49%"
+    },
+    {
+      "Name": "Ujjivan Financial",
+      "Price": 545.05,
+      "Change": "-8.04%"
+    }
+  ],
+  "volume": [
+    {
+      "name": "HDFC Bank",
+      "value": 6260.69
+    },
+    {
+      "name": "ICICI Bank",
+      "value": 3455.13
+    },
+    {
+      "name": "Indian Railway Finance",
+      "value": 3405.57
+    },
+    {
+      "name": "Reliance Industries",
+      "value": 2945.66
+    },
+    {
+      "name": "Zee Entertainment",
+      "value": 2435.37
+    },
+    {
+      "name": "Axis Bank",
+      "value": 2211.93
+    },
+    {
+      "name": "Adani Power",
+      "value": 2191.71
+    },
+    {
+      "name": "Adani Ports &Special",
+      "value": 2058.98
+    },
+    {
+      "name": "Adani Enterprises",
+      "value": 1686.31
+    },
+    {
+      "name": "REC",
+      "value": 1645.53
+    }
+  ]
+}
